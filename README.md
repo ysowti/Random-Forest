@@ -23,10 +23,9 @@ Both files can be found in this repository. Please submit all relevant code and 
 
 ------------
 
-## Assignment Instructions
+## Instructions for Submission via Github
 
-* **DO NOT PUSH TO MASTER**, **DO NOT FORK THE REPOSITORY**
-* Clone this repository, create a local git branch and commit your changes to said branch.
-* Push branch to GitHub.
-* Once work is completed, create a new Pull Request between master and your branch.
-* *Upon completion, notify Dean Lucas & Pat Blachly via email (dlucas@doximity.com, pblachly@doximity.com).*
+* Create a Github FORK of this repository on your own Github account. 
+* Next create a git branch with your changes, and push a pull-request to your fork. [(Help)](https://www.dropbox.com/s/xxqxdlmmc26hl0q/Screen%20Shot%202017-06-02%20at%2015.28.36.png?dl=0)
+* Add @doximity-review as a collaborator to your fork. 
+* Email your point of contact at Doximity a link to your repository to let them know you are done with the assignment. 
