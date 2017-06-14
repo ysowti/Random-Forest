@@ -23,9 +23,6 @@ Both files can be found in this repository. Please submit all relevant code and 
 
 ------------
 
-## Instructions for Submission via Github
+## Submission instructions
 
-* Create a Github FORK of this repository on your own Github account. 
-* Next create a git branch with your changes, and push a pull-request to your fork. [(Help)](https://www.dropbox.com/s/xxqxdlmmc26hl0q/Screen%20Shot%202017-06-02%20at%2015.28.36.png?dl=0)
-* Add @doximity-review as a collaborator to your fork. 
-* Email your point of contact at Doximity a link to your repository to let them know you are done with the assignment. 
+* Zip all your files (code, visualizations, answers/explanations, etc.) into one compressed file and share via email with your point of contact at Doximity. Please include the subject line: "Attn: Challenge submission for [your name]".
