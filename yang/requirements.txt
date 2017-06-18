@@ -1,0 +1,9 @@
+jupyter
+ipykernel
+
+pandas
+matplotlib
+
+scipy
+sklearn
+
